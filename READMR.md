@@ -1,2 +1,2 @@
-cho "# ТехноМир" > README.md
+echo "# ТехноМир" > README.md
 echo "## Лучшая бытовая техника для вашего дома" >> README.md
